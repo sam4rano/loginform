@@ -1,0 +1,38 @@
+#container {
+	display: flex;
+	justify-content: center;
+	border-radius: 10px;
+	margin-top: 5em;
+
+
+}
+header {
+	background-color: tomato;
+	opacity: 0.5;
+	text-align: center;
+	margin-right: 1em;
+	background-image: url(download.jpeg);
+}
+
+h1 {
+	color: hsl(240,40%,100%);
+}
+input {
+	border-radius: 12px;
+	box-sizing: border-box;
+}
+input {
+	border-radius: 12px;
+	box-sizing: border-box;
+}
+button {
+	text-decoration: none;
+}
+#but1 {
+	background-color:#7bb3ff;
+	border-radius: 15px;
+}
+#but2 {
+	background-color: #00ff83;
+	border-radius: 15px;
+}
